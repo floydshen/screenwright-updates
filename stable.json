@@ -1,10 +1,10 @@
 {
-  "build" : 4,
+  "build" : 5,
   "channel" : "stable",
-  "packageSHA256" : "52c8839a2f6f2dcc0ff453af101b7b42db8b2ff8656e4a497090e0c28cc91df1",
-  "packageURL" : "https:\/\/github.com\/floydshen\/screenwright-updates\/releases\/download\/v1.0-direct-b4\/Screenwright-1.0-4-notarized.zip",
-  "publishedAt" : "2026-09-16T08:33:23Z",
+  "packageSHA256" : "0d3720b1ab7dd576730fd1da6b15cdabd85ae9eb3dff1a0c95390b86d119964a",
+  "packageURL" : "https:\/\/github.com\/floydshen\/screenwright-updates\/releases\/download\/v1.0-direct-b5\/Screenwright-1.0-5-notarized.zip",
+  "publishedAt" : "2026-09-16T08:37:47Z",
   "releaseNotes" : "",
-  "signature" : "4hL570p\/84BFYacWaovQEgzCZOVHDGDdBYG\/ik2FQIV\/i\/gieuWOc2Yg3n7TInxK5HjK0GXkVN2MjD8fYxAtDQ==",
+  "signature" : "yrVx4BRbkTkBwMV1NM5gBdUAPsmlR0w4YMVevMtXrpqZrqsU0S6heeAzd38EpT4T\/j+AbhJSSYWxTqMaAINEBQ==",
   "version" : "1.0"
 }
