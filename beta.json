@@ -1,0 +1,10 @@
+{
+  "build" : 2,
+  "channel" : "beta",
+  "packageSHA256" : "2a110cd5796162b3b131cd5caaed35aa821ad424fb6bf3e28bc1b96185f84cc3",
+  "packageURL" : "https:\/\/github.com\/floydshen\/screenwright-updates\/releases\/download\/v1.0-direct-b2\/Screenwright-1.0-2-notarized.zip",
+  "publishedAt" : "2026-09-16T07:18:31Z",
+  "releaseNotes" : "Initial verified direct-distribution beta feed baseline.",
+  "signature" : "hXpk\/Tpq30ddYk21C7XgjyFPwWyZskRzXAA6yme7Qlc1loay6UmqHmeRCIv5rlgqgMxfrnNcINq7ukCUx8ThCg==",
+  "version" : "1.0"
+}
