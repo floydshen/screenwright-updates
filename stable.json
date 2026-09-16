@@ -1,10 +1,10 @@
 {
-  "build" : 2,
+  "build" : 3,
   "channel" : "stable",
-  "packageSHA256" : "01a3ee1d74fdd0f8a224b3cc4a3254150dd8d641fd50f3612b16d08f8a973d74",
-  "packageURL" : "https:\/\/github.com\/floydshen\/screenwright-updates\/releases\/download\/v1.0-direct-b2\/Screenwright-1.0-2-notarized.zip",
-  "publishedAt" : "2026-09-16T07:42:03Z",
-  "releaseNotes" : "Updater baseline for real b2 to b3 acceptance.",
-  "signature" : "zWe+K2TDI+VmOv5iMWNk2nkbUFWLyR\/eCCu6m+daygza7Ragc49IzbuZPN8Jk9P9lr3YFbSXj7qPsqKdv24ODA==",
+  "packageSHA256" : "2165dc512b4625f5a8bbdc42995a823afd2beeebac4b64c030939db0f2ade0dc",
+  "packageURL" : "https:\/\/github.com\/floydshen\/screenwright-updates\/releases\/download\/v1.0-direct-b3\/Screenwright-1.0-3-notarized.zip",
+  "publishedAt" : "2026-09-16T07:44:22Z",
+  "releaseNotes" : "Real updater acceptance target for b2 to b3.",
+  "signature" : "O9C44FntBStGDwuu8t+nESRtcm8zxipfuTYzdZ7ZaF7GrA+r7C7vxdt6RC4i3URpLRzuGQjprbzhmbt+yZKGCQ==",
   "version" : "1.0"
 }
